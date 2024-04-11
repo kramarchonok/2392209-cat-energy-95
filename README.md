@@ -1,7 +1,8 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Дарья Крамар](https://up.htmlacademy.ru/adaptive/31/user/2392209).
-* Наставник: Ольга Ветер (https://htmlacademy.ru/profile/id73199).
+* Наставник:* Наставник: Ольга Ветер (https://htmlacademy.ru/profile/id73199).
+
 
 ---
 
